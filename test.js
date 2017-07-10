@@ -1,0 +1,1 @@
+arr.reduce((sum, val)=>{ console.log(`Hello ${sum} middle ${val[1]}`); let i = 0; i=+1; return sum + val;},0).reduce((sum,value)=>{console.log("yes"+sum+"no"+value) return sum +value;},0);

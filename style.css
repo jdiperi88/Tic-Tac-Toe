@@ -1,0 +1,140 @@
+.container{
+    height: 120vh;
+    width: 100%;
+    background:url("background.jpg") no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ticTacBox{
+    display: flex;
+    height: 90vh;
+    width: 60vw;
+ 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom:10%; 
+}
+.row1{
+
+    height: 33%;
+    width: 100%;
+    display: flex;    
+}
+.row2{
+    height: 33%;
+    width: 100%;
+    display: flex;    
+}
+.row3{
+    height: 33%;
+    width: 100%;
+    display: flex;    
+}
+
+.box1{
+        border: solid rgba(255, 255, 255, 0.5);
+        width: 33%;
+        display: flex;  
+        justify-content: center;
+        align-items: center;
+}
+.box2{
+        border: solid rgba(255, 255, 255, 0.5);
+        width: 33%;
+         display: flex;  
+        justify-content: center;
+        align-items: center;
+}
+.box3{
+        border: solid rgba(255, 255, 255, 0.5);
+        width: 33%;
+         display: flex;  
+        justify-content: center;
+        align-items: center;
+}
+.boxStyle{
+    font-size: 48pt;
+
+}
+#heading{
+    background: url("http://www.dsmsales.net/images/logos/tttmarqlrg.gif");
+    height: 25%;
+    width: 30%;
+
+    background-size: contain;
+    background-repeat:no-repeat;
+    margin-top: 5%; 
+}
+h1{
+    color:white;
+    font-size: 24pt;
+    padding-bottom: 3%;
+    margin-bottom: 1%;
+    text-shadow: 4px 4px solid black;
+}
+/*inside the tick toc boxes*/
+.row1 .box1{
+    background: url("https://media.giphy.com/media/XPMCrKFznOBQk/giphy.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+p{
+    color: white;
+    text-shadow: 4px 4px black;
+}
+.row1 .box2{
+    background: url("http://cdn3.sbnation.com/imported_assets/1233589/ip7tCn1KGSMPH.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+.row1 .box3{
+    background: url("https://media.giphy.com/media/umWQh108RZcg8/giphy.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+
+.row2 .box1{
+    background: url("http://giant.gfycat.com/DapperRaggedBluebottlejellyfish.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+
+.row2 .box2{
+    background: url("https://media.giphy.com/media/l41lVCaNfN7zjhFsc/giphy.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+.row2 .box3{
+    background: url("https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/2/7/12/anigif_enhanced-buzz-5186-1328634328-8.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+.row3 .box1{
+    background: url("http://pa1.narvii.com/6039/cc9781b9a317988517fe26d043cdfaa21ef31032_hq.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+
+.row3 .box2{
+    background: url("https://media.giphy.com/media/1VEL7FOKTianC/giphy.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
+.row3 .box3{
+    background: url("https://68.media.tumblr.com/8771f40e9b1c8ac4740770bf8e4c8e1b/tumblr_od6zllguNN1ur4zrgo1_500.gif") no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity: .7;  
+}
