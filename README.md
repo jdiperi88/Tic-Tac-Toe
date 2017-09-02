@@ -1,6 +1,6 @@
-# TOP FACT
-* [Top Fact Repo](https://github.com/jdiperi88/Tic-Tac-Toe)
-* [Top Fact Page](https://https://jdiperi88.github.io/Tic-Tac-Toe/)
+# Tic-Tac-Toe
+* [Tic-Tac-Toe Repo](https://github.com/jdiperi88/Tic-Tac-Toe)
+* [Tic-Tac-Toe Page](https://https://jdiperi88.github.io/Tic-Tac-Toe/)
 
 ## What is Tic-Tac-Toe?
 
